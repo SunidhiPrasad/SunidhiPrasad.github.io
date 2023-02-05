@@ -1,14 +1,17 @@
 # Mandala
 
-![moon]("C:\Users\91733\OneDrive\Desktop\drawings\Scan_20230202 (6).jpg "Moon")
+![Circleoverlap](circle-overlap.jpg "circle overlap")
 
-![Circleoverlap]("C:\Users\91733\OneDrive\Desktop\drawings\Scan_20230202 (7).jpg "circle overlap")
+![circle-tendrils](circle-tendrils.jpg "circle tendrils")
 
-![fluteandconch]("C:\Users\91733\OneDrive\Desktop\drawings\Scan_20230202 (11).jpg "flute and conch")
+![devi](devi.png "devi")
 
-![smallcircle]("C:\Users\91733\OneDrive\Desktop\drawings\Scan_20230202 (13).jpg "small circle")
+![flute-conch](flute-conch.jpg "flute and conch")
 
-![stepcircle]("C:\Users\91733\OneDrive\Desktop\drawings\Scan_20230202 (14).jpg "step circle")
+![full-circle](full-circle.jpg "full circle")
 
+![moon](moon.jpg "moon")
 
- 
+![small-circle](small-circle.jpg "small circle")
+
+![step-circle](step-circle.jpg "step circle")
