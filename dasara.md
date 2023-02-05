@@ -11,3 +11,8 @@ I have designed and assembled the handcuffs, which endured many falls. See the v
 ![handcuffs](IMG20221006175004.jpg "handcuffs")
 ![handcuffs](IMG20221006175009.jpg "handcuffs")
 ![handcuffs](IMG20221006175421.jpg "handcuffs")
+
+A few years back, we had done the vishwaroopa darshana of Lord Krishna. I have contributed by designing and stitching the dhoti.
+
+![dhoti](IMG_20190928_153737.jpg "dhoti")
+![dhoti](IMG_20191002_083645.jpg "dhoti")
