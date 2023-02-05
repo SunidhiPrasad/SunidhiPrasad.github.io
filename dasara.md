@@ -9,7 +9,5 @@ Every year we celebrate dasara festival in a unique way by adding our own techno
 I have designed and assembled the handcuffs, which endured many falls. See the video above :)
 
 ![handcuffs](IMG20221006175004.jpg "handcuffs")
-
 ![handcuffs](IMG20221006175009.jpg "handcuffs")
-
 ![handcuffs](IMG20221006175421.jpg "handcuffs")
