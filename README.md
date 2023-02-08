@@ -6,4 +6,4 @@
 
 [Tech dasara](dasara.md)
 
-
+![krishna](krishna.png "krishna")
